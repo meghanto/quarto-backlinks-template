@@ -4,4 +4,4 @@ title: "Penguins"
 
 Famous Batman Villain
 
-{{< include _neighbor-footer.qmd >}}
+{{< include ../_neighbor-footer.qmd >}}

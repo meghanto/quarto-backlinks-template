@@ -4,4 +4,4 @@ title: "Elephants"
 
 Filler text about Elephants!
 
-{{< include _neighbor-footer.qmd >}}
+{{< include ../_neighbor-footer.qmd >}}
