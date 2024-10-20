@@ -1,0 +1,9 @@
+---
+title: "Parrots"
+---
+
+Parrots are colorful and intelligent birds. Unlike [penguins](penguins.qmd), parrots can fly.
+
+Some parrot species can live as long as [dogs](../mammals/dogs.qmd) or [cats](../mammals/cats.qmd).
+
+{{< include _neighbor-footer.qmd >}}

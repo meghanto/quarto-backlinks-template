@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Animal Encyclopedia"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Mammals
+        menu:
+          - mammals/cats.qmd
+          - mammals/dogs.qmd
+          - mammals/elephants.qmd
+      - text: Birds
+        menu:
+          - birds/parrots.qmd
+          - birds/penguins.qmd
+    right:
+      - href: graph.qmd
+        text: Graph
+
+
+
+filters:
+  - quarto-backlinks

@@ -1,0 +1,9 @@
+---
+title: "Animal Encyclopedia"
+---
+
+Welcome to our Animal Encyclopedia!
+
+Check out our articles on [cats](mammals/cats.qmd), [dogs](mammals/dogs.qmd), and [parrots](birds/parrots.qmd).
+
+{{< include _neighbor-footer.qmd >}}

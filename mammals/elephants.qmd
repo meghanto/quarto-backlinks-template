@@ -1,0 +1,7 @@
+---
+title: "Elephants"
+---
+
+Filler text about Elephants!
+
+{{< include _neighbor-footer.qmd >}}

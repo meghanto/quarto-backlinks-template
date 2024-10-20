@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "birds/penguins.html",
+    "href": "birds/penguins.html",
+    "title": "Penguins",
+    "section": "",
+    "text": "Famous Batman Villain"
+  },
+  {
+    "objectID": "mammals/dogs.html",
+    "href": "mammals/dogs.html",
+    "title": "Dogs",
+    "section": "",
+    "text": "Dogs are known as man’s best friend. Unlike cats, dogs are pack animals.\nSome large dog breeds can be as big as small elephants!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Animal Encyclopedia",
+    "section": "",
+    "text": "Welcome to our Animal Encyclopedia!\nCheck out our articles on cats, dogs, and parrots.\n\n\n\n\n\n\nNeighbors"
+  },
+  {
+    "objectID": "mammals/cats.html",
+    "href": "mammals/cats.html",
+    "title": "Cats",
+    "section": "",
+    "text": "Cats are fascinating creatures. They are related to big cats like lions and tigers.\nCats are often compared to dogs as popular pets."
+  },
+  {
+    "objectID": "mammals/elephants.html",
+    "href": "mammals/elephants.html",
+    "title": "Elephants",
+    "section": "",
+    "text": "Filler text about Elephants!"
+  },
+  {
+    "objectID": "birds/parrots.html",
+    "href": "birds/parrots.html",
+    "title": "Parrots",
+    "section": "",
+    "text": "Parrots are colorful and intelligent birds. Unlike penguins, parrots can fly.\nSome parrot species can live as long as dogs or cats."
+  }
+]

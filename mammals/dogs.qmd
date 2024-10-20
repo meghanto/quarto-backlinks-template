@@ -1,0 +1,9 @@
+---
+title: "Dogs"
+---
+
+Dogs are known as man's best friend. Unlike [cats](cats.qmd), dogs are pack animals.
+
+Some large dog breeds can be as big as small [elephants](elephants.qmd)!
+
+{{< include _neighbor-footer.qmd >}}

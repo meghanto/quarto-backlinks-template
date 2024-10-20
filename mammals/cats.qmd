@@ -1,0 +1,9 @@
+---
+title: "Cats"
+---
+
+Cats are fascinating creatures. They are related to [big cats](elephants.qmd) like lions and tigers.
+
+Cats are often compared to [dogs](dogs.qmd) as popular pets.
+
+{{< include _neighbor-footer.qmd >}}

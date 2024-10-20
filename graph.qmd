@@ -1,0 +1,11 @@
+---
+format:
+  html:
+    include-in-header: graph-header.html
+    include-after-body: graph-body.html
+---
+
+```{=html}
+<div id="root"></div>
+
+```
